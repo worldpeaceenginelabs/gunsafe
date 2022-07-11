@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/67427045/176697043-08a8a753-303c-4200-91dc-bf88374860f7.png)
+![image](https://user-images.githubusercontent.com/67427045/178232735-301c4a1a-9bca-43a0-85c6-2583f21fb7f0.png)
 
 # Gunsafe
 ## A CLI password manager utility for NPM, built on [Gun DB](https://github.com/amark/gun)
